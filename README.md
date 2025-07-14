@@ -20,12 +20,9 @@ I created this repo for:
 - ✅ Basic Select
 - ✅ Advanced Select
 - ✅ Aggregation
-- ✅ Joins
-- ✅ Subqueries
-- ✅ Date Functions
-- ✅ String Functions
-- ✅ Advanced OLAP (Window Functions)
-- ✅ Interview-Style Challenges
+- ✅ Basic Join
+- ✅ Advanced Join
+- ✅ Alternative Queries 
 
 ---
 
